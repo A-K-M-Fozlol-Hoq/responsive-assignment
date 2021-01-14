@@ -118,10 +118,12 @@ header,.about-us{
     -ms-flex-order: 1;
     -webkit-order: 1;
     order: 1;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
   }
   /* For line 88 to 122, I took help from stack overflow */
-
+  .swap{
+    text-align: center;
+  }
 
 }
 
